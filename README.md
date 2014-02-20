@@ -1,4 +1,5 @@
 pislisSniflis.github.io
 =======================
 
-This hosted as pages in GitHub
+Laman peribadi berbentuk statik yang diilhamkan daripada Template Bootstrap Grayscale.
+
